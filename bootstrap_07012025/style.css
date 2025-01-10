@@ -1,0 +1,36 @@
+
+
+.navbar{
+    box-shadow: 0px 12px 18px -6px rgba(0,0,0,0.3)
+}
+.nav-link{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 18px;
+    letter-spacing: 2px;
+}
+
+.nav-link:hover{
+    text-decoration: underline;
+    color: black;
+    text-underline-offset: 8px;
+}
+
+.navbar-brand{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 20px;
+    font-size: 24px;
+    color: white;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+
+}
+
+.icon{
+    padding-right: 20px;
+}
+
+.icon a i{
+    letter-spacing: 20px;
+    color: white;
+}
